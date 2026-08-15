@@ -16,5 +16,3 @@ The notebook acts as a hands-on walkthrough of essential NumPy concepts. Here is
 *   **Aggregating Functions with Axes:** Calculating maximums, means, and sums along specific dimensions (`axis=0`, `axis=1`, `axis=2`).
 *   **Concatenation & Clipping:** Merging multiple arrays together and using `np.clip()` to bound array values within a strict numerical range.
 
-## Usage
-Since this is a practice environment, feel free to modify the cells, change the axis parameters, or break things to see how the NumPy engine responds!
